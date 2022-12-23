@@ -16,7 +16,6 @@
 * 1
 - 2
 
-[네이버가자](https://blog.naver.com/byeol1222)
 
 ```
 print("python")
